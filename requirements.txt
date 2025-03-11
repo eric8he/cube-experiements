@@ -1,0 +1,3 @@
+magiccube
+kociemba
+pyTwistyScrambler
